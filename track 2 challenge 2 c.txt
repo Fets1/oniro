@@ -1,0 +1,4 @@
+Try to change /etc/issue to include your name/nick, tell what happens.
+Question (free form): What happened and why? Can you imagine why Linux distributions do such a thing?
+Oniro doesn't allow to change the /etc/issue file, because Oniro is a read-only OS. Some Linux distributions are read-only OS for security resons. 
+To avoid hacker attacks or to avoid that the users could corrupt the files, editing the files in the wrong way.
